@@ -6,8 +6,12 @@ Welcome to HexaShop, your one-stop online shop for all your shopping needs! Our 
 - Product Search: Use our search feature to find the products you are looking for quickly and easily.
 - Product Reviews: Read reviews from other customers to help you make informed purchasing decisions.
 - Shopping Cart: Add products to your shopping cart and easily checkout when you are ready to make your purchase.
-- Order Tracking: Track the status of your orders from the moment they are placed until they arrive at your doorstep.
-- Customer Support: Contact our friendly customer support team for any questions or concerns.
+
+  
+
+
+![screencapture-file-D-Desktop-HTML-Project-Hexashop-index-html-2023-06-17-01_00_58](https://github.com/aboutmohsin/Hexashop/assets/86055307/417ba899-74d1-4784-88f5-c69e65cef928)
+
 
 ## Technologies Used
 - HTML/CSS
